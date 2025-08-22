@@ -51,10 +51,7 @@ It is part of the broader [LinkedIn Jobs Pipeline Project](https://github.com/yu
 ---
 
 ## ⚙️ Requirements
-See `requirements.txt` for full dependencies:
-pandas
-matplotlib
-wordcloud
+See `requirements.txt` for full dependencies.
 
 
 ---
